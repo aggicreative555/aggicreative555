@@ -18,6 +18,9 @@
   - 🔭 <strong>I’m currently working on:</strong> improving my <a href="https://github.com/NoroffFEU/html-css-course-assignment-aggicreative555" target="_blank">Gamehub project</a>.
   <br>
   <br>
+  - 👩‍💻 <strong>My most recent project: </strong><a href="https://github.com/aggicreative555/Community-Science-Museum" target="_blank">COSM Museum Website</a>.
+  <br>
+  <br>
   - 🌱 <strong>I’m currently learning:</strong> Sass, Angular / Bootstrap and Javascript.
   <br>
   <br>
