@@ -63,7 +63,7 @@
 <br>
 <br>
 <br>
-<h3>Thank you for stopping by!</h3>
+<h3 align="center" >Thank you for stopping by!</h3>
 <br>
 <br>
 <br>
