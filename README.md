@@ -24,9 +24,6 @@
   - 🌱 <strong>I’m currently learning:</strong> Sass, Angular / Bootstrap and Javascript.
   <br>
   <br>
-  - 💬 <strong>Ask me about:</strong> What's my fav type of tea as a dev? Proper-tea. And others.
-  <br>
-  <br>
   - ⚡ <strong style="bold">Fun fact:</strong> I build my websites in silence while talking to myself.
 </p>
 <br>
