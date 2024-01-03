@@ -63,11 +63,14 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h1 align="center" >Thank you for stopping by!</h1>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 
