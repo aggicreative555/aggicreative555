@@ -1,6 +1,6 @@
 <img align="left" width="150" height="150" src="https://github.com/aggicreative555/aggicreative555/assets/142678571/095134bf-fb03-4fee-bbac-a591c5f6284e" alt="rose petals falling animation"/><img align="right" width="150" height="150" src="https://github.com/aggicreative555/aggicreative555/assets/142678571/095134bf-fb03-4fee-bbac-a591c5f6284e" alt="rose petals falling animation"/>
 <h1 align="center">Hi, I'm Aggi!</h1><br>
-<h3 align="center">Not fully baked front-end dev with a passion for art and all things creative!</h3>
+<h3 align="center">Not fully bloomed front-end dev with a passion for art and all things creative!</h3>
 <br>
 <br>
 <p align="center">
