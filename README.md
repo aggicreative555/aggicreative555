@@ -21,7 +21,7 @@
   - 👩‍💻 <strong>My most recent project: </strong><a href="https://github.com/aggicreative555/Community-Science-Museum" target="_blank">COSM Museum Website</a>.
   <br>
   <br>
-  - 🌱 <strong>I’m currently learning:</strong> Sass, Angular / Bootstrap and Javascript.
+  - 🌱 <strong>I’m currently learning:</strong> Sass, Bootstrap and Javascript.
   <br>
   <br>
   - ⚡ <strong style="bold">Fun fact:</strong> I build my websites in silence while talking to myself.
