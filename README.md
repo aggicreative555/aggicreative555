@@ -15,7 +15,7 @@
 <br>
 <br>
 <p align="center" >
-  - 🔭 <strong>I’m currently working on:</strong> improving my <a href="https://github.com/NoroffFEU/html-css-course-assignment-aggicreative555" target="_blank">Gamehub project</a>.
+  - 🔭 <strong>I’m currently working on:</strong> as a part of my internship at StudVest, I'm working on creating a quiz game with my team. 
   <br>
   <br>
   - 👩‍💻 <strong>My most recent project: </strong><a href="https://github.com/aggicreative555/Community-Science-Museum" target="_blank">COSM Museum Website</a>.
