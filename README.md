@@ -15,44 +15,13 @@
 <br>
 <br>
 <p align="center" >
-  - 🔭 <strong>I’m currently working on:</strong> as a part of my internship at <a href="https://github.com/Studvest"><strong>Studvest</strong></a>, I'm working on creating a quiz game with my team. 
+  - 👩‍💻 <strong>My most recent project: </strong><a href="https://github.com/aggicreative555/rat-central/" target="_blank">Rat Central Social Media Website</a>.
   <br>
   <br>
-  - 👩‍💻 <strong>My most recent project: </strong><a href="https://github.com/aggicreative555/Community-Science-Museum" target="_blank">COSM Museum Website</a>.
+  - 🌱 <strong>I’m currently learning:</strong> React and building with preprocessors (Vite).
   <br>
   <br>
-  - 🌱 <strong>I’m currently learning:</strong> Astro, Sass, Tailwind and Javascript.
-  <br>
-  <br>
-  - ⚡ <strong style="bold">Fun fact:</strong> I build my websites in silence while talking to myself.
-</p>
-<br>
-<br>
-<hr>
 
-
-<br>
-<br>
-<br>
-<br>
-
-![aggicreative555's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aggicreative555&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
-
-<br>
-<br>
-<br>
-
-![aggicreative555's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aggicreative555&theme=synthwave&hide_border=true)
-
-<br>
-<br>
-<br>
-
-![aggicreative555's Stats](https://github-readme-stats.vercel.app/api?username=aggicreative555&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-
-<br>
-<br>
-<br>
 
 <h3>🖍️ Languages and Tools </h3>
 <br>
