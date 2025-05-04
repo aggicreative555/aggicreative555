@@ -6,7 +6,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aggi-cieplak/" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="aggi.creative@gmail.com" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://aggicreative.myportfolio.com/home-page" target="blank">  <img width="32" height="32" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Adobe-logos-and-brands-those-icons-flat-those-icons.png" alt="external-Adobe-logos-and-brands-those-icons-flat-those-icons"/></a>
 </p>
 <br>
 <br>
