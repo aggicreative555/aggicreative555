@@ -14,27 +14,25 @@
 <br>
 <br>
 <p align="center" >
-  - 👩‍💻 <strong>My most recent project: </strong><a href="https://github.com/aggicreative555/rat-central/" target="_blank">Rat Central Social Media Website</a>.
+  - <strong>My most recent project: </strong><a href=" https://github.com/NoroffFEU/jsfw-2025-v1-js-frameworks-25" target="_blank">SwanCOM E-commerce product website</a>
   <br>
   <br>
-  - 🌱 <strong>I’m currently learning:</strong> React and building with preprocessors (Vite).
+  <img align="center" width="" height="" src="https://github.com/user-attachments/assets/a0820114-b4f7-4bca-8a10-99b423582966" alt="SwanCom landing page"/>
   <br>
   <br>
-
-
-<h3>🖍️ Languages and Tools </h3>
+    <a href="https://swancom.netlify.app/" target="_blank"><em>See it in action!</em></a>
+  <br>
+  <br>
+  - <strong>I’m currently learning:</strong> React & Angular.
+  <br>
+  <br>
+<h3 align="center">Languages & Tools </h3>
 <br>
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,figma,xd,ai,ps)](https://skillicons.dev)
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,git,html,postman,js,astro,figma,ai,bootstrap,vite,vitest,tailwind,react,css,github,&perline=3" />
+  </a>
+</p>
 <br>
 <h1 align="center" >Thank you for stopping by!</h1>
 <br>
