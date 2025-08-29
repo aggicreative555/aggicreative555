@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aggi!</h1><br>
-<h3 align="center">Blooming front-end dev with a passion for art and all things creative!</h3>
+<h3 align="center">Front-end dev with a passion for vintage & antiques. <br> Working with me, you will see how easy it is to create practical, chaming & perfectly curated websites. </h3>
 <br>
 <br>
 <p align="center">
@@ -16,14 +16,15 @@
   <strong>My most recent project: </strong>
   <br>
   <br>
-  <a href=" https://github.com/NoroffFEU/jsfw-2025-v1-js-frameworks-25" target="_blank">
-    <img align="center" width="" height="" src="https://github.com/user-attachments/assets/a0820114-b4f7-4bca-8a10-99b423582966" alt="SwanCom landing page"/>
-  </a>
-  <p align="center"><em>By clicking on the image, you will be taken to the project repo</em>
-    <br>
-    <br>
-    <a href="https://swancom.netlify.app/" target="_blank"><em>See it in action!</em></a>
-  </p>
+  <img align="center" width="" height="" src="https://github.com/user-attachments/assets/a0820114-b4f7-4bca-8a10-99b423582966" alt="SwanCom landing page"/>
+  <br>
+  <br>
+  <span>💾</span>
+  <a align=center href="https://github.com/NoroffFEU/jsfw-2025-v1-js-frameworks-25" target="_blank"><em>See the repo</em></a>
+  <br>
+  <br>
+  <span>🎬</span>
+  <a href="https://swancom.netlify.app/" target="_blank"><em>See it in action!</em></a>
   <br>
   <br>
   <p align="center">
