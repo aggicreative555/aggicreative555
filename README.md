@@ -13,18 +13,15 @@
 <br>
 <br>
 <p align="center" >
-  <strong>My most recent project: </strong>
+  <strong>See my portfolio</strong>
   <br>
   <br>
-  <img align="center" width="" height="" src="https://github.com/user-attachments/assets/a0820114-b4f7-4bca-8a10-99b423582966" alt="SwanCom landing page"/>
+  <a href="https://aggi-cieplak.vercel.app/" target="blank">
+    <img width="1762" height="932" align="center alt="Aggi Cieplak portfolio landing page" src="https://github.com/user-attachments/assets/90bf5a63-ef87-4e6b-8882-76ad7a9fbf2f" />
+  </a>
   <br>
   <br>
   <span>💾</span>
-  <a align=center href="https://github.com/NoroffFEU/jsfw-2025-v1-js-frameworks-25" target="_blank"><em>See the repo</em></a>
-  <br>
-  <br>
-  <span>🎬</span>
-  <a href="https://swancom.netlify.app/" target="_blank"><em>See it in action!</em></a>
   <br>
   <br>
   <p align="center">
