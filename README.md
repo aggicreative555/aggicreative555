@@ -13,15 +13,10 @@
 <br>
 <br>
 <p align="center" >
-  <strong>See my portfolio</strong>
-  <br>
-  <br>
+  <strong>See My Portfolio:</strong>
   <a href="https://aggi-cieplak.vercel.app/" target="blank">
     <img width="1762" height="932" align="center alt="Aggi Cieplak portfolio landing page" src="https://github.com/user-attachments/assets/90bf5a63-ef87-4e6b-8882-76ad7a9fbf2f" />
   </a>
-  <br>
-  <br>
-  <span>💾</span>
   <br>
   <br>
   <p align="center">
