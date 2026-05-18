@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aggi!</h1><br>
-<h3 align="center">Front-end dev with a passion for vintage & antiques. <br> Working with me, you will see how easy it is to create practical, chaming & perfectly curated websites. </h3>
+<h3 align="center">Front-end dev with a passion for vintage & antiques. <br> Working with me, you will see how easy it is to create practical, charming & perfectly curated websites. </h3>
 <br>
 <br>
 <p align="center">
@@ -13,7 +13,7 @@
 <br>
 <br>
 <p align="center" >
-  <strong>See My Portfolio:</strong>
+  <strong>See My Portfolio (old v. under developement):</strong>
   <a href="https://aggi-cieplak.vercel.app/" target="blank">
     <img width="1762" height="932" align="center alt="Aggi Cieplak portfolio landing page" src="https://github.com/user-attachments/assets/90bf5a63-ef87-4e6b-8882-76ad7a9fbf2f" />
   </a>
