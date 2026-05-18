@@ -8,8 +8,10 @@
 </p>
 <br>
 <br>
-<h3 align="center"> A FEW PROJECTS: </h3>
-<p>*Click the image to view the deployed website*</p>
+<h2 align="center"> A FEW PROJECTS: </h2>
+<p align="center"><i>Click the image to view the deployed website</i></p>
+<br>
+<br>
 <p align="center" >
   <strong>Holidaze | Vacation website :</strong>
 </p>
