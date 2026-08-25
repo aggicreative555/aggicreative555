@@ -3,7 +3,6 @@
 <br>
 <br>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aggi-cieplak/" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="aggi.creative@gmail.com" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
